@@ -1,0 +1,47 @@
+ul{
+	
+	margin-left: 100px;
+
+
+}
+
+li{
+	
+	display: inline-block;
+	padding: 8px;
+	margin-top: -45px;
+	margin-bottom: 90px;
+
+
+}
+.nva{
+	margin-right: 180px;
+}
+li a{
+	text-decoration: none;
+}
+#logo{
+
+	border-radius: 8px;
+	height: 25px;
+	width: 25px;
+	}
+	h1{
+		font-size: 45px;
+		font-family: helvetica;
+		font-weight: 170;
+		margin-left: 150px;
+
+	}
+h2{
+	margin-left: 150px;
+	padding-bottom: 10px;
+}
+h5{
+	color:grey;
+	margin-left: 150px;
+}
+h3{
+	margin-left: 150px;
+
+}
